@@ -51,7 +51,7 @@ public class ALHeap
     public boolean isEmpty()
     {
 	return _heap.size() == 0; //return if size if 0
-}  //O(1)
+    }  //O(1)
 
 
     /*****************************************************
@@ -63,7 +63,7 @@ public class ALHeap
     public Integer peekMin()
     {
 	return _heap.get(0);  //return val at 0th
-  }  //O(1)
+    }  //O(1)
 
 
     /*****************************************************
