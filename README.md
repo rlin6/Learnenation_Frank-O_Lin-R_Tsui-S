@@ -26,4 +26,3 @@ removeMin() -> Linear O(n)
 5. Test functionality of methods with appropriate test cases in main method 
 6. Implement isEmpty() 
 7. Implement peekMin() 
-8. Wrap it all up with a nice bow 
